@@ -50,7 +50,7 @@ h4 {
 }
 
 .container {
-  max-width: 1440px;
+  max-width: 1224px;
   margin: auto;
   /* padding: 70px; */
 }
@@ -118,7 +118,7 @@ header nav .menu .button a {
 
 header div[role="banner"] {
   position: relative;
-  background-color: var(--Very-Dark-Violet);
+  background-color: var(--Dark-Violet);
   color: var(--Very-Light-Gray);
   min-height: 580px;
   height: 62vh;
@@ -196,7 +196,7 @@ main .find-more {
   justify-content: space-between;
   align-items: center;
   color: var(--Very-Light-Gray);
-  background-color: var(--Very-Dark-Violet);
+  background-color: var(--Dark-Violet);
   padding: 80px;
 }
 
@@ -328,8 +328,8 @@ footer .attribution a {
 }
 
 @media only screen and (min-width: 900px) and (max-width: 1200px) {
-  .container {
-    max-width: 1000px;
+  nav {
+    padding: 0 30px;
   }
   header div[role="banner"] .container img {
     width: 50%;
