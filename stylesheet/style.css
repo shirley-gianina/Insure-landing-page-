@@ -39,7 +39,6 @@ h3:before {
   width: 150px;
   height: 1px;
   background-color: var(--Dark-Grayish-Violet);
-  /* margin-top: 330px; */
   margin-bottom: 60px;
 }
 
@@ -52,7 +51,6 @@ h4 {
 .container {
   max-width: 1224px;
   margin: auto;
-  /* padding: 70px; */
 }
 
 header nav {
